@@ -8,10 +8,10 @@
 <div align="center">
   <a href="https://github.com/rafaelvieira10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelvieira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolopesribeiro&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelvieira10&layout=compact&langs_count=7&theme=tokyonight"/>
     <p align="center"> 
 
-   <img src="https://github-profile-trophy.vercel.app/?username=LeolopesRibeiro&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /> 
+   <img src="https://github-profile-trophy.vercel.app/?username=rafaelvieira10&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /> 
 
  </p>
 </div>
